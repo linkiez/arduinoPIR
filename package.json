@@ -1,0 +1,24 @@
+{
+  "name": "arduinopir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkiez/arduinoPIR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linkiez/arduinoPIR/issues"
+  },
+  "homepage": "https://github.com/linkiez/arduinoPIR#readme",
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "mysql2": "^2.3.3"
+  }
+}
